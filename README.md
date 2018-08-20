@@ -1,4 +1,4 @@
-# Bolt-Network
+# Outbox
 Outbox is creating an AngularJS app for their email app.
 
 # Dependencies 
