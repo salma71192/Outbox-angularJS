@@ -7,7 +7,7 @@ app.config(function ($routeProvider) {
       templateUrl: 'views/home.html' 
     })
     .when('/outbox/:id', { 
-      controller: 'EmailController ', 
+      controller: 'EmailController', 
       templateUrl: 'views/email.html' 
     })
     .otherwise({ 
